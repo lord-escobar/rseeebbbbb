@@ -66,14 +66,8 @@ Eğer “**IIS Welcome Page**” (hoş geldin sayfası) açılıyorsa, IIS başa
    - `Internet Information Services (IIS) Manager` uygulamasını aç.
    - Sol menüden "Sites" > Sağ tıkla > "Add Website"
    - Site adını gir (örnek: `RetroOtel`)
-   - Fiziksel yol olarak dosyalarının olduğu klasörü seç (örnek: `C:\inetpub\retro`)
+   - Fiziksel yol olarak dosyalarının olduğu klasörü seç (örnek: `C:\inetpub\\wwwroot\atomcms\public`)
    - Portu 80 bırakabilirsin. Domainin yoksa `localhost` olarak çalışır.
-
-3. **Hosts Dosyasına Giriş Ekle (İsteğe Bağlı):**
-
-127.0.0.1 retrootel.local
-
-Ardından `http://retrootel.local` yazarak giriş yapabilirsin.
 
 ---
 
