@@ -49,8 +49,8 @@ Yardım mı gerekiyor? Fikrin mi var? Geliştiricilerle ve diğer kullanıcılar
 
 Bu platformun gelişimine destek olan tüm gönüllülere teşekkür ederiz:
 
-- **Lord (Döküman Oluşturucu)**
-- **Jemo (Otel Kurulumu)**
+- **Lord**
+- **Jemo**
 
 Sen de katkıda bulunmak istiyorsan [bizimle iletişime geç](mailto:senretro@gmail.com) veya Discord sunucumuza katıl.
 
