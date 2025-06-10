@@ -1,29 +1,62 @@
 # 👋 Hoşgeldin!
 
-Retro oyun dünyasına adım atmak mı istiyorsun? Bu rehber, sıfırdan kendi retro otelini kurmanı sağlayacak. Hazırsan başlayalım!
-
-## 🚀 Giriş
-
-Retro otel, Habbo tarzında çalışan, oyuncuların sohbet edebileceği, odalar oluşturabileceği bir sosyal platformdur. Kendi otelini kurarak bu dünyaya liderlik edebilirsin!
+> Retro otel dünyasına meraklı mısın? Kendi otelini kurmak, yönetmek ve oyunculara nostaljik bir deneyim sunmak mı istiyorsun?
+> 
+> **Doğru yerdesin.** Retrosen, retro otel sistemlerine ilgi duyan herkes için hazırlanmış kapsamlı bir rehber platformudur.
 
 ---
 
-## 📦 Gerekli Dosyalar
+## 🧭 Amacımız Nedir?
 
-Otel kurmak için bazı temel dosyalara ihtiyacın olacak:
-
-- ✅ Otel CMS'i (örneğin: RevCMS, PlusEMU uyumlu bir CMS)
-- ✅ Emulator (örneğin: PlusEMU veya ArcturusEMU)
-- ✅ Veritabanı (MySQL)
-- ✅ Xampp ya da Laragon gibi bir sunucu ortamı
+Retrosen, kullanıcıların kendi Habbo tarzı otellerini kurabilmeleri için rehberler, kaynaklar ve topluluk desteği sunar. 
+Amacımız herkesin kolayca kendi sunucusunu kurabilmesi ve gelişmiş sistemlere adım atabilmesini sağlamaktır.
 
 ---
 
-## 🤝 Yardım & Destek
+## 📚 Bu Sitede Neler Bulacaksın?
 
-Sorun mu yaşıyorsun? [Retrosen Discord](https://discord.gg/seninlinkin) sunucumuza gel ve destek al!
+- ✅ **Otel Paketleri:** PlusEMU, ArcturusEMU ve RevCMS gibi hazır paketler
+- 🛠️ **Kurulum Rehberleri:** Xampp, veritabanı, emulator ve CMS kurulumu adım adım
+- ⚙️ **Gelişmiş Ayarlar:** RCON ayarları, rozet ve mobilya ekleme
+- 🎨 **Tema ve Logo Paylaşımları**
+- 💡 **Sık Sorulan Sorular & Sorun Giderme**
 
 ---
 
-**Hazırlayan:** Retrosen Ekibi  
-**Tarih:** Haziran 2025  
+## 🧰 Gerekli Araçlar
+
+Otel kurmaya başlamadan önce ihtiyacınız olan bazı temel araçlar:
+
+- **XAMPP veya Laragon** (yerel sunucu)
+- **MySQL Veritabanı**
+- **PlusEMU / ArcturusEMU**
+- **RevCMS / Cosmic CMS gibi bir otel arayüzü**
+- **Tarayıcı (Chrome, Firefox vs.)**
+
+Tüm bu bileşenlerin nasıl kurulacağı, adım adım dökümanlarımızda anlatılacaktır.
+
+---
+
+## 💬 Destek ve Topluluk
+
+Yardım mı gerekiyor? Fikrin mi var? Geliştiricilerle ve diğer kullanıcılarla iletişim kurmak için destek sunucumuza katılabilirsin:
+
+👉 [Discord Destek Sunucusu](https://discord.gg/seninlinkin)  
+🌐 [Web Sitemiz](https://www.retrosen.com)
+
+---
+
+## 🙌 Katkıda Bulunanlar
+
+Bu platformun gelişimine destek olan tüm gönüllülere teşekkür ederiz:
+
+- **Arda (Kurucu & İçerik Geliştirici)**
+- **Batu (Teknik Destek ve Emulator Testleri)**
+- **Retrosen Topluluğu** (geri bildirim ve önerilerinizle büyüyoruz!)
+
+Sen de katkıda bulunmak istiyorsan [bizimle iletişime geç](mailto:destek@retrosen.com) veya Discord sunucumuza katıl.
+
+---
+
+> 💡 Yeni başlayan biriysen, ilk otelini kurmak için [Başlangıç Rehberi'ne git →](./baslangic-rehberi.md)
+
