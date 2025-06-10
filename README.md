@@ -50,7 +50,7 @@ Yardım mı gerekiyor? Fikrin mi var? Geliştiricilerle ve diğer kullanıcılar
 
 Bu platformun gelişimine destek olan tüm gönüllülere teşekkür ederiz:
 
-- **Arda (Döküman Oluşturucu)**
+- **Lord (Döküman Oluşturucu)**
 - **Jemo (Otel Kurulumu)**
 
 Sen de katkıda bulunmak istiyorsan [bizimle iletişime geç](mailto:senretro@gmail.com) veya Discord sunucumuza katıl.
