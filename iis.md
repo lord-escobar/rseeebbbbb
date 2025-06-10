@@ -1,3 +1,5 @@
+> 💡 Ana Sayfaya dönmek istiyorsan [Ana Sayfaya git →](./baslangic-rehberi.md)
+
 # 🌐 IIS (Internet Information Services) Kurulumu Rehberi
 
 Bu döküman, Windows kullanıcıları için IIS'nin nasıl kurulacağını ve retro otel projelerinde nasıl kullanılacağını adım adım açıklar.
