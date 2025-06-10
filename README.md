@@ -27,10 +27,10 @@ Amacımız herkesin kolayca kendi sunucusunu kurabilmesi ve gelişmiş sistemler
 
 Otel kurmaya başlamadan önce ihtiyacınız olan bazı temel araçlar:
 
-- **XAMPP veya Laragon** (yerel sunucu)
+- **XAMPP veya IIS** (yerel sunucu)
 - **MySQL Veritabanı**
 - **PlusEMU / ArcturusEMU**
-- **RevCMS / Cosmic CMS gibi bir otel arayüzü**
+- **Atom CMS / Cosmic CMS gibi bir otel arayüzü**
 - **Tarayıcı (Chrome, Firefox vs.)**
 
 Tüm bu bileşenlerin nasıl kurulacağı, adım adım dökümanlarımızda anlatılacaktır.
@@ -41,8 +41,8 @@ Tüm bu bileşenlerin nasıl kurulacağı, adım adım dökümanlarımızda anla
 
 Yardım mı gerekiyor? Fikrin mi var? Geliştiricilerle ve diğer kullanıcılarla iletişim kurmak için destek sunucumuza katılabilirsin:
 
-👉 [Discord Destek Sunucusu](https://discord.gg/seninlinkin)  
-🌐 [Web Sitemiz](https://www.retrosen.com)
+👉 [Discord Sunucumuz](https://discord.gg/YgeZNjc2ef)  
+🌐 [Web Sitemiz](https://www.retrosen.biz)
 
 ---
 
