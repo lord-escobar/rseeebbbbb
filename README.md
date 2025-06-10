@@ -1,7 +1,6 @@
 # 👋 Hoşgeldin!
 
 > Retro otel dünyasına meraklı mısın? Kendi otelini kurmak, yönetmek ve oyunculara nostaljik bir deneyim sunmak mı istiyorsun?
-> 
 > **Doğru yerdesin.** Retrosen, retro otel sistemlerine ilgi duyan herkes için hazırlanmış kapsamlı bir rehber platformudur.
 
 ---
@@ -15,8 +14,8 @@ Amacımız herkesin kolayca kendi sunucusunu kurabilmesi ve gelişmiş sistemler
 
 ## 📚 Bu Sitede Neler Bulacaksın?
 
-- ✅ **Otel Paketleri:** PlusEMU, ArcturusEMU ve RevCMS gibi hazır paketler
-- 🛠️ **Kurulum Rehberleri:** Xampp, veritabanı, emulator ve CMS kurulumu adım adım
+- ✅ **Otel Paketleri:** PlusEMU, ArcturusEMU ve AtomCMS gibi hazır paketler
+- 🛠️ **Kurulum Rehberleri:** IIS, veritabanı, emulator ve CMS kurulumu adım adım
 - ⚙️ **Gelişmiş Ayarlar:** RCON ayarları, rozet ve mobilya ekleme
 - 🎨 **Tema ve Logo Paylaşımları**
 - 💡 **Sık Sorulan Sorular & Sorun Giderme**
