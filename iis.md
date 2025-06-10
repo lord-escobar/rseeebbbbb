@@ -60,7 +60,7 @@ Eğer “**IIS Welcome Page**” (hoş geldin sayfası) açılıyorsa, IIS başa
 ## 🗂️ Web Sitesi Yayınlama (Örnek)
 
 1. **Web Dosyalarını Hazırla:**
-   - Otel CMS dosyalarını bir klasöre koy (örneğin `C:\inetpub\retro`)
+   - Otel CMS dosyalarını bir klasöre koy (örneğin `C:\inetpub\wwwroot\atomcms`)
 
 2. **IIS Üzerinden Yayınla:**
    - `Internet Information Services (IIS) Manager` uygulamasını aç.
