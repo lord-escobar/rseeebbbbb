@@ -8,7 +8,8 @@ Bu döküman, Windows kullanıcıları için IIS'nin nasıl kurulacağını ve r
 
 ## 🧩 IIS Nedir?
 
-**IIS**, Windows tarafından geliştirilen bir web sunucu yazılımıdır. XAMPP veya Laragon gibi Apache tabanlı çözümlere alternatif olarak kullanılır. Retro otel projelerinde özellikle CMS (örneğin RevCMS) yayınlamak için tercih edilebilir.
+**IIS**, Windows tarafından geliştirilen bir web sunucu yazılımıdır. XAMPP gibi Apache tabanlı çözümlere alternatif olarak kullanılır. Retro otel projelerinde özellikle CMS (örneğin AtomCMS) yayınlamak için tercih edilebilir.
+> 💡 Bizde Xampp yerine IIS kurmanızı tevsiye ederiz.
 
 ---
 
@@ -97,5 +98,5 @@ Bu döküman retro otel sistemlerinde kullanımı hedeflenmiştir. Gelişmiş ya
 
 ---
 
-**Hazırlayan:** Retrosen Ekibi  
+**Hazırlayan:** Lord
 **Tarih:** Haziran 2025  
