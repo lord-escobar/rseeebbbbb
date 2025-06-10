@@ -50,11 +50,10 @@ Yardım mı gerekiyor? Fikrin mi var? Geliştiricilerle ve diğer kullanıcılar
 
 Bu platformun gelişimine destek olan tüm gönüllülere teşekkür ederiz:
 
-- **Arda (Kurucu & İçerik Geliştirici)**
-- **Batu (Teknik Destek ve Emulator Testleri)**
-- **Retrosen Topluluğu** (geri bildirim ve önerilerinizle büyüyoruz!)
+- **Arda (Döküman Oluşturucu)**
+- **Jemo (Otel Kurulumu)**
 
-Sen de katkıda bulunmak istiyorsan [bizimle iletişime geç](mailto:destek@retrosen.com) veya Discord sunucumuza katıl.
+Sen de katkıda bulunmak istiyorsan [bizimle iletişime geç](mailto:senretro@gmail.com) veya Discord sunucumuza katıl.
 
 ---
 
