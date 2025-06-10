@@ -1,4 +1,4 @@
-# 🏨 Retrosen Başlangıç Rehberi: Kendi Retro Otelini Kur!
+# 👋 Hoşgeldin!
 
 Retro oyun dünyasına adım atmak mı istiyorsun? Bu rehber, sıfırdan kendi retro otelini kurmanı sağlayacak. Hazırsan başlayalım!
 
@@ -16,43 +16,6 @@ Otel kurmak için bazı temel dosyalara ihtiyacın olacak:
 - ✅ Emulator (örneğin: PlusEMU veya ArcturusEMU)
 - ✅ Veritabanı (MySQL)
 - ✅ Xampp ya da Laragon gibi bir sunucu ortamı
-
----
-
-## 🛠️ Kurulum Adımları
-
-### 1. Sunucu Ortamını Kur
-- [XAMPP](https://www.apachefriends.org/tr/index.html) veya [Laragon](https://laragon.org/) indir.
-- Apache ve MySQL'i çalıştır.
-
-### 2. Veritabanını Hazırla
-- `localhost/phpmyadmin` adresine git.
-- Yeni bir veritabanı oluştur (örnek: `retro_db`).
-- CMS'in içinden `.sql` dosyasını içeri aktar.
-
-### 3. Emulator Kurulumu
-- Emulator dosyalarını indir.
-- `config.ini` dosyasını düzenleyerek veritabanı ve bağlantı ayarlarını yap.
-- `PlusEMU.exe` dosyasını çalıştır.
-
-### 4. CMS Kurulumu
-- CMS dosyalarını `htdocs` klasörüne at.
-- `app/config.php` gibi yapılandırma dosyalarını düzenle.
-- Tarayıcıdan otel sitesine girerek kurulumu tamamla.
-
----
-
-## 🔐 Yönetici Hesabı Oluşturma
-
-Veritabanına gidip `users` tablosunu aç. Mevcut hesabına `rank` değerini `7` yaparak kendini otelin sahibi yapabilirsin.
-
----
-
-## 💡 İpuçları
-
-- Tarayıcıda hata alıyorsan `error_log` dosyasını kontrol et.
-- Otelini başkalarıyla paylaşmak için bir sunucuya taşıman gerekir.
-- Güvenlik için veritabanı ve CMS şifrelerini güçlü yap!
 
 ---
 
