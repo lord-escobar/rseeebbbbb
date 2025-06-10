@@ -92,5 +92,5 @@ Bu döküman retro otel sistemlerinde kullanımı hedeflenmiştir. Gelişmiş ya
 
 ---
 
-**Hazırlayan:** Lord
+**Hazırlayan:** Lord\n
 **Tarih:** Haziran 2025  
