@@ -19,7 +19,8 @@ Otelini 7/24 açık tutmak için kişisel bilgisayar yerine bir **VDS (Virtual D
 ### VDS Firması Önerileri
 > ⚠️ Türkiye'den alınan VDS’lerde ping düşüktür, Avrupa lokasyonlarında ise bağlantı daha dengelidir.
 
-- [**Netinternet** (TR)](https://www.netinternet.com.tr/)
+- [**Etkinhost** (TR)](https://www.etkinhost.com.tr)
+- [**Natro** (TR)](https://www.natro.com)
 - [**Vultr** (EU/US)](https://www.vultr.com/)
 - [**Hetzner** (DE)](https://www.hetzner.com/)
 - [**Contabo** (DE)](https://contabo.com/)
