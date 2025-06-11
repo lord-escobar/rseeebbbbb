@@ -85,6 +85,16 @@ Cloudflare panelinden:
 ---
 
 ### 6. Websocket SSL Off
+Kullanıcının emülatör üzerinden otele bağlanabilmesi için WebSocket bağlantısının SSL olmadan (`ws://`) çalışması gerekmektedir. Bu nedenle Cloudflare üzerinde aşağıdaki şekilde bir **Page Rule** oluşturulmalıdır:
+
+1. Cloudflare panelinden **Rules > Page Rules** bölümüne girin.  
+2. **Create Page Rule** butonuna tıklayın.  
+3. **URL (required)** kısmına şu ifadeyi yazın: `ws.otelin.com:2096/`
+4. **Pick a Setting** alanında `SSL` seçeneğini seçin.  
+5. **Select SSL/TLS encryption mode** kısmında `Off` seçin.  
+6. Kaydedin.
+
+> ⚠️ Bu ayar, sadece **emülatör bağlantısında SSL zorunluluğu olmayan WebSocket** erişimini sağlamak içindir. Web istemcileri veya tarayıcılar için `wss://` (SSL) bağlantısı gereklidir.
 
 ---
 
