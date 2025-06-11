@@ -84,4 +84,3 @@ Her adımı detaylıca anlatıyoruz. Takıldığında topluluğumuza katıl:
 ---
 
 **Hazırlayan:** Lord  
-**Tarih:** Haziran 2025
