@@ -91,7 +91,3 @@ Yardım mı gerekiyor? Fikrin mi var? Geliştiricilerle ve diğer kullanıcılar
 
 Bu döküman retro otel sistemlerinde kullanımı hedeflenmiştir. Gelişmiş yapılandırma için IIS belgelerine göz atabilirsin:  
 🔗 https://learn.microsoft.com/en-us/iis/
-
----
-
-**Hazırlayan:** Jemo, Lord
