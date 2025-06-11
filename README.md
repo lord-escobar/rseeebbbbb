@@ -52,9 +52,9 @@ Bu platformun gelişimine destek olan tüm gönüllülere teşekkür ederiz:
 - **Lord**
 - **Jemo**
 
-Sen de katkıda bulunmak istiyorsan [bizimle iletişime geç](mailto:senretro@gmail.com) veya Discord sunucumuza katıl.
+Sen de katkıda bulunmak istiyorsan [bizimle iletişime geç](mailto:bizretrosen@gmail.com) veya Discord sunucumuza katıl.
 
 ---
 
-> 💡 Yeni başlayan biriysen, ilk otelini kurmak için [Başlangıç Rehberi'ne git →](./baslangic-rehberi.md)
+> 💡 Yeni başlayan biriysen, ilk otelini kurmak için [Başlangıç Rehberi'ne git →](./baslangic.md)
 
