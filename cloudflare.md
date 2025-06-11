@@ -94,7 +94,7 @@ Kullanıcının emülatör üzerinden otele bağlanabilmesi için WebSocket bağ
 5. **Select SSL/TLS encryption mode** kısmında `Off` seçin.  
 6. Kaydedin.
 
-> ⚠️ Bu ayar, sadece **emülatör bağlantısında SSL zorunluluğu olmayan WebSocket** erişimini sağlamak içindir. Web istemcileri veya tarayıcılar için `wss://` (SSL) bağlantısı gereklidir.
+> ⚠️ Bu ayar, sadece **emülatör bağlantısında SSL zorunluluğu olmayan WebSocket** erişimini sağlamak içindir.
 
 ---
 
