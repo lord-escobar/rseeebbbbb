@@ -67,6 +67,7 @@ Retro otel kurulumunda eklemen gereken tipik kayıt:
 |--------|-----------|---------------------|--------|
 | A     | `@`       | `VDS IP adresin`     | Auto ☁️ |
 | A     | `ws`      | `VDS IP adresin`     | Auto ☁️ |
+| A     | `wss`      | `VDS IP adresin`     | Auto ☁️ |
 
 > 🎯 Cloudflare proxy'si **auto** olmalı!
 
