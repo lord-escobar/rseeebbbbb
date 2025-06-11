@@ -35,14 +35,13 @@ Oyuncuların oteline kolayca ulaşabilmesi için bir alan adına ihtiyacın var.
 
 - `.com` → Profesyonel görünüm, önerilir  
 - `.fun`, `.xyz` → Ucuz ama geçici olabilir  
-- `.net`, `.org` → Alternatifler  
+- `.net`, `.biz`, `.org` → Alternatifler  
 
 ### Domain Firması Önerileri
 
-- [**Namecheap**](https://www.namecheap.com/)
-- [**Porkbun**](https://porkbun.com/)
-- [**Turhost** (TR)](https://www.turhost.com/)
-- [**İsimtescil** (TR)](https://www.isimtescil.net/)
+- [**Yöncü** (TR)](https://www.yoncu.com/)
+- [**GoDaddy**](https://www.godaddy.com/)
+- [**Hostinger**](https://www.hostinger.com/tr)
 
 > 🔐 Domain alırken WHOIS koruması sunan firmaları tercih et.
 
@@ -84,5 +83,5 @@ Her adımı detaylıca anlatıyoruz. Takıldığında topluluğumuza katıl:
 
 ---
 
-**Hazırlayan:** Retrosen Ekibi  
+**Hazırlayan:** Lord  
 **Tarih:** Haziran 2025
