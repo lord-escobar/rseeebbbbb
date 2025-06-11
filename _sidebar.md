@@ -1,3 +1,3 @@
-* [Ana Sayfa](/)
-* [Başlangıç Rehberi](/baslangic.md)
+* [🤗 Ana Sayfa](/)
+* [💡 Başlangıç Rehberi](/baslangic.md)
 * [IIS Kurulumu](/iis.md)
