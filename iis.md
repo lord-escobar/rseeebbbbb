@@ -78,10 +78,12 @@ Eğer “**IIS Welcome Page**” (hoş geldin sayfası) açılıyorsa, IIS başa
 
 ---
 
-## 💬 Yardım ve Destek
+## 💬 Destek ve Topluluk
 
-Kurulumda takıldığın yerler için bize ulaşabilirsin:  
-👉 [Retrosen Discord Destek Sunucusu](https://discord.gg/YgeZNjc2ef)
+Yardım mı gerekiyor? Fikrin mi var? Geliştiricilerle ve diğer kullanıcılarla iletişim kurmak için destek sunucumuza katılabilirsin:
+
+👉 [Discord Sunucumuz](https://discord.gg/YgeZNjc2ef)  
+🌐 [Web Sitemiz](https://www.retrosen.biz)
 
 ---
 
@@ -92,5 +94,4 @@ Bu döküman retro otel sistemlerinde kullanımı hedeflenmiştir. Gelişmiş ya
 
 ---
 
-**Hazırlayan:** Lord<br/>
-**Tarih:** Haziran 2025  
+**Hazırlayan:** Jemo, Lord
