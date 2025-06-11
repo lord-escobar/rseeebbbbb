@@ -68,7 +68,7 @@ Retro otel kurulumunda eklemen gereken tipik kayıt:
 | A     | `@`       | `VDS IP adresin`     | Auto ☁️ |
 | A     | `ws`      | `VDS IP adresin`     | Auto ☁️ |
 
-> 🎯 Cloudflare proxy'si auto olmalı!
+> 🎯 Cloudflare proxy'si **auto** olmalı!
 
 Devam > Save
 
@@ -81,7 +81,11 @@ Cloudflare panelinden:
 - **SSL/TLS** > Full seç  
 - **Page Rules** ile `www` yönlendirmesi ayarla _(isteğe bağlı)_
 - **Firewall** bölümünden basit DDoS filtreleri ekleyebilirsin _(isteğe bağlı)_
-- 
+
+---
+
+### 6. Websocket SSL Off
+
 ---
 
 ## 💬 Destek ve Topluluk
