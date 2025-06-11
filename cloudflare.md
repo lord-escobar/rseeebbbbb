@@ -1,0 +1,100 @@
+# ☁️ Cloudflare Rehberi (Retro Oteller İçin)
+
+Bu döküman, domain'ini Cloudflare'e nasıl bağlayacağını ve retro otelinin güvenliğini nasıl artıracağını adım adım açıklar.
+
+---
+
+## ❓ Cloudflare Nedir?
+
+**Cloudflare**, siteni hızlandıran ve aynı zamanda saldırılara karşı koruyan ücretsiz bir servistir.  
+Retro otellerde en çok kullanılan güvenlik çözümlerinden biridir.
+
+**Avantajları:**
+
+- 🛡️ DDoS koruması sağlar  
+- 🔒 Ücretsiz SSL (https) sunar  
+- ⚡ Siteyi daha hızlı açar (cache sistemi)  
+- 🌐 Gerçek IP’yi gizleyerek sunucunu korur  
+
+---
+
+## 🧾 Gerekli Olanlar
+
+- ✅ Bir adet domain (örnek: otelim.com)
+- ✅ Domain yönetim paneline erişim (Namecheap, İsimtescil, vs.)
+- ✅ Cloudflare hesabı ([https://dash.cloudflare.com](https://dash.cloudflare.com))
+
+---
+
+## 🚀 Adım Adım Cloudflare Kurulumu
+
+### 1. Hesap Oluştur
+
+1. [https://cloudflare.com](https://cloudflare.com) adresine git.  
+2. Sağ üstten **Sign Up** diyerek kayıt ol.
+
+---
+
+### 2. Domain Ekle
+
+1. Giriş yaptıktan sonra **Add a Site** butonuna tıkla.  
+2. Domain adını yaz (örnek: `otelim.com`) ve devam et.  
+3. Ücretsiz planı seç (Free Plan) > Continue
+
+---
+
+### 3. DNS Kayıtlarını Kontrol Et
+
+Cloudflare domain’ini tarayıp mevcut DNS kayıtlarını gösterir.
+
+Retro otel kurulumunda eklemen gereken tipik kayıt:
+
+| Tip   | Ad        | Değer               | Proxy |
+|--------|-----------|---------------------|--------|
+| A     | `@`       | `VDS IP adresin`     | Aktif ☁️ |
+| A     | `www`     | `VDS IP adresin`     | Aktif ☁️ |
+| A     | `game`    | `VDS IP adresin`     | Pasif (☁️ kapalı) |
+
+> 🎯 CMS için Cloudflare proxy'si aktif olmalı, ancak **emulator için pasif** olmalıdır!
+
+Devam > Save
+
+---
+
+### 4. Nameserver (NS) Değiştirme
+
+Cloudflare sana iki adet NS (nameserver) verecek.
+
+Bu nameserver’ları, domaini aldığın firmanın yönetim panelinden değiştirmelisin.
+
+**Örnek:**  
+- `jessica.ns.cloudflare.com`  
+- `max.ns.cloudflare.com`
+
+> ⚠️ DNS değişikliklerinin aktif olması 5 dakikadan 24 saate kadar sürebilir.
+
+---
+
+### 5. SSL ve Güvenlik Ayarları
+
+Cloudflare panelinden:
+
+- **SSL/TLS** > Full seç  
+- **Page Rules** ile `www` yönlendirmesi ayarla  
+- **Firewall** bölümünden basit DDoS filtreleri ekleyebilirsin
+
+---
+
+## 📌 Ekstra Öneriler
+
+- CMS'nin admin paneline Cloudflare "Security Level: High" uygulayabilirsin  
+- Eğer emulator bağlantı hatası veriyorsa, `game.otelim.com` alt alan adını proxy’siz yap
+
+---
+
+## 💬 Destek ve Topluluk
+
+Yardım mı gerekiyor? Fikrin mi var? Geliştiricilerle ve diğer kullanıcılarla iletişim kurmak için destek sunucumuza katılabilirsin:
+
+👉 [Discord Sunucumuz](https://discord.gg/YgeZNjc2ef)  
+🌐 [Web Sitemiz](https://www.retrosen.biz)
