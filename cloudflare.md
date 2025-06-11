@@ -43,24 +43,7 @@ Retro otellerde en çok kullanılan güvenlik çözümlerinden biridir.
 
 ---
 
-### 3. DNS Kayıtlarını Kontrol Et
-
-Cloudflare domain’ini tarayıp mevcut DNS kayıtlarını gösterir.
-
-Retro otel kurulumunda eklemen gereken tipik kayıt:
-
-| Tip   | Ad        | Değer               | Proxy |
-|--------|-----------|---------------------|--------|
-| A     | `@`       | `VDS IP adresin`     | Auto ☁️ |
-| A     | `ws`      | `VDS IP adresin`     | Auto ☁️ |
-
-> 🎯 CMS için Cloudflare proxy'si aktif olmalı, ancak **websocket için pasif** olmalıdır!
-
-Devam > Save
-
----
-
-### 4. Nameserver (NS) Değiştirme
+### 3. Nameserver (NS) Değiştirme
 
 Cloudflare sana iki adet NS (nameserver) verecek.
 
@@ -71,6 +54,23 @@ Bu nameserver’ları, domaini aldığın firmanın yönetim panelinden değişt
 - `max.ns.cloudflare.com`
 
 > ⚠️ DNS değişikliklerinin aktif olması 5 dakikadan 24 saate kadar sürebilir.
+
+---
+
+### 4. DNS Kayıtlarını Kontrol Et
+
+Cloudflare domain’ini tarayıp mevcut DNS kayıtlarını gösterir.
+
+Retro otel kurulumunda eklemen gereken tipik kayıt:
+
+| Tip   | Ad        | Değer               | Proxy |
+|--------|-----------|---------------------|--------|
+| A     | `@`       | `VDS IP adresin`     | Auto ☁️ |
+| A     | `ws`      | `VDS IP adresin`     | Auto ☁️ |
+
+> 🎯 Cloudflare proxy'si auto olmalı!
+
+Devam > Save
 
 ---
 
