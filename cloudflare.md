@@ -21,7 +21,7 @@ Retro otellerde en çok kullanılan güvenlik çözümlerinden biridir.
 ## 🧾 Gerekli Olanlar
 
 - ✅ Bir adet domain (örnek: otelim.com)
-- ✅ Domain yönetim paneline erişim (Namecheap, İsimtescil, vs.)
+- ✅ Domain yönetim paneline erişim (Yöncü, Hostinger, vs.)
 - ✅ Cloudflare hesabı ([https://dash.cloudflare.com](https://dash.cloudflare.com))
 
 ---
@@ -51,11 +51,10 @@ Retro otel kurulumunda eklemen gereken tipik kayıt:
 
 | Tip   | Ad        | Değer               | Proxy |
 |--------|-----------|---------------------|--------|
-| A     | `@`       | `VDS IP adresin`     | Aktif ☁️ |
-| A     | `www`     | `VDS IP adresin`     | Aktif ☁️ |
-| A     | `game`    | `VDS IP adresin`     | Pasif (☁️ kapalı) |
+| A     | `@`       | `VDS IP adresin`     | Auto ☁️ |
+| A     | `ws`      | `VDS IP adresin`     | Auto ☁️ |
 
-> 🎯 CMS için Cloudflare proxy'si aktif olmalı, ancak **emulator için pasif** olmalıdır!
+> 🎯 CMS için Cloudflare proxy'si aktif olmalı, ancak **websocket için pasif** olmalıdır!
 
 Devam > Save
 
@@ -80,16 +79,9 @@ Bu nameserver’ları, domaini aldığın firmanın yönetim panelinden değişt
 Cloudflare panelinden:
 
 - **SSL/TLS** > Full seç  
-- **Page Rules** ile `www` yönlendirmesi ayarla  
-- **Firewall** bölümünden basit DDoS filtreleri ekleyebilirsin
-
----
-
-## 📌 Ekstra Öneriler
-
-- CMS'nin admin paneline Cloudflare "Security Level: High" uygulayabilirsin  
-- Eğer emulator bağlantı hatası veriyorsa, `game.otelim.com` alt alan adını proxy’siz yap
-
+- **Page Rules** ile `www` yönlendirmesi ayarla _(isteğe bağlı)_
+- **Firewall** bölümünden basit DDoS filtreleri ekleyebilirsin _(isteğe bağlı)_
+- 
 ---
 
 ## 💬 Destek ve Topluluk
