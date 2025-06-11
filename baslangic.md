@@ -74,12 +74,12 @@ Bunlar tamamlandıktan sonra **CMS, emulator ve veritabanı** kurulumuna geçebi
 
 ---
 
-## 💬 Yardım mı Lazım?
+## 💬 Destek ve Topluluk
 
-Her adımı detaylıca anlatıyoruz. Takıldığında topluluğumuza katıl:
+Yardım mı gerekiyor? Fikrin mi var? Geliştiricilerle ve diğer kullanıcılarla iletişim kurmak için destek sunucumuza katılabilirsin:
 
-👉 [Retrosen Discord Destek Sunucusu](https://discord.gg/seninlinkin)  
-🌐 [Web Sitemiz](https://www.retrosen.com)
+👉 [Discord Sunucumuz](https://discord.gg/YgeZNjc2ef)  
+🌐 [Web Sitemiz](https://www.retrosen.biz)
 
 ---
 
