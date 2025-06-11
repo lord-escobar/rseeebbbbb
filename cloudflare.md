@@ -1,6 +1,6 @@
 # ☁️ Cloudflare Rehberi (Retro Oteller İçin)
 
-Bu döküman, domain'ini Cloudflare'e nasıl bağlayacağını ve retro otelinin güvenliğini nasıl artıracağını adım adım açıklar.
+Bu döküman, domain'ini Cloudflare'e nasıl bağlayacağını ve websocket nasıl bağlayacağını açıklar.
 
 ---
 
