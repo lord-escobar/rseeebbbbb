@@ -80,7 +80,3 @@ Yardım mı gerekiyor? Fikrin mi var? Geliştiricilerle ve diğer kullanıcılar
 
 👉 [Discord Sunucumuz](https://discord.gg/YgeZNjc2ef)  
 🌐 [Web Sitemiz](https://www.retrosen.biz)
-
----
-
-**Hazırlayan:** Lord  
