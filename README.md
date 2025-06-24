@@ -51,6 +51,7 @@ Bu platformun gelişimine destek olan tüm gönüllülere teşekkür ederiz:
 
 - **Lord**
 - **Jemo**
+- **LorGens**
 
 Sen de katkıda bulunmak istiyorsan [bizimle iletişime geç](mailto:bizretrosen@gmail.com) veya Discord sunucumuza katıl.
 
